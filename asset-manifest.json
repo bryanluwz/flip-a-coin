@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/flip-a-coin/static/css/main.858daefc.css",
+    "main.js": "/flip-a-coin/static/js/main.b23f0cd9.js",
+    "static/media/lulo-font.ttf": "/flip-a-coin/static/media/lulo-font.cf6ce051896b18d3449b.ttf",
+    "index.html": "/flip-a-coin/index.html",
+    "main.858daefc.css.map": "/flip-a-coin/static/css/main.858daefc.css.map",
+    "main.b23f0cd9.js.map": "/flip-a-coin/static/js/main.b23f0cd9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.858daefc.css",
+    "static/js/main.b23f0cd9.js"
+  ]
+}
