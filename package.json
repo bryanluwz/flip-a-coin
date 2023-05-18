@@ -1,7 +1,7 @@
 {
-    "homepage": "https://bryanluwz.github.io/cat-gpt",
-    "name": "cat-gpt",
-    "description": "Cat GPT meow meow (based on cat-gpt.com/chat)",
+    "homepage": "https://bryanluwz.github.io/flip-a-coin",
+    "name": "flip-a-coin",
+    "description": "shiba inu! do a flip!",
     "dependencies": {
         "@fortawesome/react-fontawesome": "^0.2.0",
         "@testing-library/jest-dom": "^5.16.5",
