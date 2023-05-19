@@ -24,7 +24,7 @@ export default class FlipACoin extends Component {
 	render() {
 		return (
 			<ContentDisplay
-				backButtonRoute={"https://bryanluwz.github.io/#/fun-stuff"}
+				backButtonRedirect={"https://bryanluwz.github.io/#/fun-stuff"}
 				displayName={FlipACoin.displayName}
 				displayClearHistory={false}
 				faIcon="fa-plane"
